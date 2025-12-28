@@ -1,5 +1,5 @@
 ## Welcome to John's profile! 👋
-- 🔭 I’m currently working on MrCookie
+- 🔭 I’m currently working on CookieBot
 
 <!--
 **JohnV50/JohnV50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
